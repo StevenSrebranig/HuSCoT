@@ -51,9 +51,14 @@ HuSCoT_Demonstrations.pdf    – Cross-domain applications
 /examples/                   – Small-scale micro examples  
 /code/                       – Optional HCM/CSA scripts  
 
+## Current Version
+**v1.31 (2025-02)** — Consolidation and stabilization release.  
+
+
+
 How to Cite
 
-Srebranig, S. (2025). Human-System Coherence Toolkit (HuSCoT), v1.2. Zenodo.
+Srebranig, S. (2025). Human-System Coherence Toolkit (HuSCoT), v1.3. Zenodo.
 DOI: 10.5281/zenodo.17845207
 
 Attribution Notice
@@ -73,3 +78,4 @@ Scenario simulation
 A HuSCoT Python library
 
 For collaboration or questions: (add contact method)
+stevensrebranig@gmail.com
